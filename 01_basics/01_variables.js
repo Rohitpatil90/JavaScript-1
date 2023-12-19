@@ -10,6 +10,7 @@ accountcity = "karad"
 prefer not to use var
 because of issue in block scope and function scope
 */
+//in this we learn some variables
 
 console.log(name);
 console.table([name, accountID, accountEmail, accountpass, accountcity])
