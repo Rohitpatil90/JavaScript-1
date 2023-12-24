@@ -29,7 +29,7 @@ console.log(ins);
 
    // ex. 
    {
-    "name" : "js Course" ,
-    "price" : "999"  ,                     // thid is the syntax of json 
-    "courseInstructor" : "rohit"
+    //"name" : "js Course" ,
+    //"price" : "999"  ,                     // thid is the syntax of json 
+    //"courseInstructor" : "rohit"
    }
